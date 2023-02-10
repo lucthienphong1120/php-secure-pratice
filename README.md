@@ -4,6 +4,7 @@ A comprehensive guide to securing PHP code and protecting against common securit
 
 ## Todo
 
+- [x] Secure user cookies: How to secure user cookies and signature that stored in client browers.
 - [ ] Input validation: How to validate user input to prevent against security vulnerabilities such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).
 - [ ] Secure password storage: How to securely store passwords in a database using hashing and salting.
 - [ ] Session management: How to securely manage user sessions to prevent against session hijacking and fixation attacks.
